@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [0. Before](0-before.md)
+   * 1-1. 选择兵器
 * [1. HTML与CSS](1.md)
    * [1.1 选择兵器](1-1.md)
 
