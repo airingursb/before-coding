@@ -8,13 +8,13 @@
 
 如果书中有疏漏或错误之处，敬请您指出，期待您的pull request。如果有任何疑问也可以发送issue。
 
-本书地址：[http://before-coding.ursb.me](http://before-coding.ursb.me)
+本书GitBook：[http://before-coding.ursb.me](http://before-coding.ursb.me)
 
 本人邮箱：airing@ursb.me
 
 本人博客：[http://ursb.me](http://ursb.me)
 
-本书GitBook：[http://airingursb.gitbooks.io/before-coding](http://airingursb.gitbooks.io/before-coding)
+本书主页：[http://Airing.coding.me/before-coding](http://Airing.coding.me/before-coding)
 
 本书GitHub：[http://github.com/airingursb/before-coding](http://github.com/airingursb/before-coding)
 
