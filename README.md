@@ -14,7 +14,7 @@
 
 本人博客：[http://ursb.me](http://ursb.me)
 
-本书主页：[http://Airing.coding.me/before-coding](http://Airing.coding.me/before-coding)
+本书主页：[http://airing.coding.me/before-coding](http://airing.coding.me/before-coding)
 
 本书GitHub：[http://github.com/airingursb/before-coding](http://github.com/airingursb/before-coding)
 
